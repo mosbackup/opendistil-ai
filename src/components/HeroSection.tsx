@@ -6,20 +6,18 @@ const HeroSection = () => {
 
       <div className="container mx-auto px-6 pt-24 pb-16 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
-          
 
-          <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black tracking-tight leading-[0.95] mb-6 animate-fade-in opacity-0" style={{ animationDelay: "0.2s" }}>
+          <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black tracking-tight leading-[0.95] mb-6 animate-fade-in" style={{ animationDelay: "0.2s" }}>
             <span className="text-gradient-white">Distillation</span>
             <br />
             <span className="text-gradient-red">at Scale</span>
           </h1>
 
-          <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-4 animate-fade-in opacity-0" style={{ animationDelay: "0.4s" }}>
+          <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-4 animate-fade-in" style={{ animationDelay: "0.4s" }}>
             Build frontier-level AI models without frontier-level compute, with our Distillation-as-a-Service infrastructure.
           </p>
-       
 
-          <div className="animate-fade-in opacity-0" style={{ animationDelay: "0.6s" }}>
+          <div className="animate-fade-in" style={{ animationDelay: "0.6s" }}>
             <a
               href="https://forms.office.com/r/t8FQe9SziR"
               className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-primary/90 transition-all duration-200 glow-red"
@@ -29,7 +27,6 @@ const HeroSection = () => {
             </a>
           </div>
 
-      
         </div>
       </div>
     </section>
