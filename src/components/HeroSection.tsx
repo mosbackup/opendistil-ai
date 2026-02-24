@@ -6,10 +6,7 @@ const HeroSection = () => {
 
       <div className="container mx-auto px-6 pt-24 pb-16 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
-          <div className="inline-flex items-center gap-2 border border-border rounded-full px-4 py-1.5 mb-8 text-xs text-muted-foreground animate-fade-in opacity-0" style={{ animationDelay: "0.1s" }}>
-            <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse-glow" />
-            YC-Backed · San Francisco
-          </div>
+          
 
           <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black tracking-tight leading-[0.95] mb-6 animate-fade-in opacity-0" style={{ animationDelay: "0.2s" }}>
             <span className="text-gradient-white">Distillation</span>
@@ -18,11 +15,9 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-4 animate-fade-in opacity-0" style={{ animationDelay: "0.4s" }}>
-            Build frontier-level AI models without frontier-level compute.
+            Build frontier-level AI models without frontier-level compute, with our Distillation-as-a-Service platform.
           </p>
-          <p className="text-sm text-muted-foreground/70 max-w-xl mx-auto mb-10 animate-fade-in opacity-0" style={{ animationDelay: "0.5s" }}>
-            Turn the world's most powerful models into efficient production systems.
-          </p>
+       
 
           <div className="animate-fade-in opacity-0" style={{ animationDelay: "0.6s" }}>
             <a
@@ -34,10 +29,7 @@ const HeroSection = () => {
             </a>
           </div>
 
-          {/* Pipeline animation */}
-          <div className="mt-20 animate-fade-in opacity-0" style={{ animationDelay: "0.8s" }}>
-            <DistillationPipeline />
-          </div>
+      
         </div>
       </div>
     </section>
