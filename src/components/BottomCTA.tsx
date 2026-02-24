@@ -8,7 +8,7 @@ const BottomCTA = () => {
             Build Your Own<br />Frontier Lab
           </h2>
           <a
-            href="mailto:info@opendistil.com"
+            href="https://forms.office.com/r/t8FQe9SziR"
             className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-10 py-4 rounded-lg font-semibold text-base hover:bg-primary/90 transition-all duration-200 glow-red"
           >
             Start Distilling
