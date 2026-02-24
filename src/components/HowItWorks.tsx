@@ -1,8 +1,8 @@
 const steps = [
   {
     num: "01",
-    title: "Connect a Frontier Model",
-    desc: "Use a powerful teacher model — Claude, GPT, or Gemini — as your knowledge source.",
+    title: "Connect Frontier Models",
+    desc: "Use powerful teacher models — Claude, GPT, and Gemini — as your knowledge sources.",
     icon: "🧠",
   },
   {
