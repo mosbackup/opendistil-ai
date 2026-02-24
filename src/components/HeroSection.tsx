@@ -15,7 +15,7 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-4 animate-fade-in opacity-0" style={{ animationDelay: "0.4s" }}>
-            Build frontier-level AI models without frontier-level compute, with our Distillation-as-a-Service platform.
+            Build frontier-level AI models without frontier-level compute, with our Distillation-as-a-Service infrastructure.
           </p>
        
 
