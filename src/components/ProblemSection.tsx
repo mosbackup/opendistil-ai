@@ -4,7 +4,7 @@ const ProblemSection = () => {
       <div className="container mx-auto px-6">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl md:text-5xl font-bold tracking-tight mb-6 text-gradient-white">
-            Training Frontier Models<br />Is Not Affordable
+            Training Frontier Models<br />Should Be Affordable
           </h2>
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed mb-8">
             Training frontier models requires massive compute clusters, billions in research, and years of iteration.
