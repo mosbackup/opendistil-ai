@@ -84,7 +84,7 @@ const PricingSection = () => {
                 ))}
               </ul>
               <a
-                href="#cta"
+                href="https://forms.office.com/r/t8FQe9SziR"
                 className={`block text-center py-2.5 rounded-lg text-sm font-medium transition-colors ${
                   tier.highlighted
                     ? "bg-primary text-primary-foreground hover:bg-primary/90"
