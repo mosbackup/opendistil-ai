@@ -15,7 +15,7 @@ const steps = [
     num: "03",
     title: "Build the Distillation Dataset",
     desc: "Capture responses and convert them into high-quality training data for a student model.",
-    icon: "📦",
+    icon: "⚗️",
   },
   {
     num: "04",
