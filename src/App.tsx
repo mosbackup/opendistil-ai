@@ -7,7 +7,7 @@ import Index from "./pages/Index";
 import Blog from "./pages/Blog";
 import BlogPost from "./pages/BlogPost";
 import NotFound from "./pages/NotFound";
-
+import ScrollToTop from "./components/ScrollToTop";   // ← add this line
 const queryClient = new QueryClient();
 
 const App = () => (
