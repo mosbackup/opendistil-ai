@@ -22,7 +22,7 @@ Fine-tuning takes an existing model and trains it further on domain-specific dat
 
 ## Distillation: Compression + Transfer
 
-Distillation takes the *capabilities* of a powerful model and transfers them into a smaller architecture. Think of it as **building a new expert that learned from the best**.
+Distillation takes the *capabilities* of a powerful model and transfers them into a weaker model. Think of it as **building a new expert that learned from the best**.
 
 **Best for:**
 - Reducing inference costs by 10-100x
@@ -32,7 +32,6 @@ Distillation takes the *capabilities* of a powerful model and transfers them int
 
 **Limitations:**
 - Requires access to a strong teacher model
-- Some capability loss (typically 5-15%)
 - Requires careful dataset construction
 
 ## The Decision Framework
