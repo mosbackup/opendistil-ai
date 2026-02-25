@@ -1,6 +1,6 @@
 # Launching OpenDistil: Distillation-as-a-Service
 
-**January 15, 2026 · OpenDistil Team**
+**February 25, 2026 · OpenDistil Team**
 
 ---
 
@@ -10,7 +10,7 @@ Today, we're excited to announce the launch of **OpenDistil** — the first plat
 
 The AI industry is concentrating power in the hands of a few companies with massive compute budgets. We believe this isn't sustainable and it's not necessary.
 
-Distillation has proven that you can reproduce 85-95% of a frontier model's capabilities at a tiny fraction of the cost. But until now, running distillation pipelines required deep ML expertise and significant engineering effort.
+Distillation has proven that you can reproduce frontier capabilities at a tiny fraction of the cost. But until now, running distillation pipelines required deep ML expertise, cybersecurity know-how, and significant engineering effort.
 
 ## What OpenDistil Does
 
@@ -36,7 +36,6 @@ Typical customers achieve frontier-level models for **less than 1%** of the cost
 
 We're just getting started. Our roadmap includes:
 
-- Multi-teacher distillation (combine capabilities from multiple frontier models)
 - Continuous distillation pipelines (keep your models updated as teachers improve)
 - Specialized distillation for code, math, and reasoning
 
