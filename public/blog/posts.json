@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "why-distillation-matters",
+    "title": "Why Model Distillation Matters for the Future of AI",
+    "date": "2026-02-20",
+    "excerpt": "Distillation is quietly becoming the most important technique in AI deployment. Here's why every AI lab should pay attention.",
+    "author": "OpenDistil Team",
+    "tags": ["distillation", "AI infrastructure"]
+  },
+  {
+    "slug": "distillation-vs-fine-tuning",
+    "title": "Distillation vs Fine-Tuning: When to Use What",
+    "date": "2026-02-10",
+    "excerpt": "Both techniques optimize models, but they serve very different purposes. We break down the trade-offs.",
+    "author": "OpenDistil Team",
+    "tags": ["technical", "comparison"]
+  },
+  {
+    "slug": "launching-opendistil",
+    "title": "Launching OpenDistil: Distillation-as-a-Service",
+    "date": "2026-01-15",
+    "excerpt": "Today we're launching OpenDistil — making frontier-level AI accessible to every lab and startup.",
+    "author": "OpenDistil Team",
+    "tags": ["announcement", "launch"]
+  }
+]

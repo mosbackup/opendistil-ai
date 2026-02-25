@@ -24,9 +24,10 @@ const Navbar = () => {
           </span>
         </Link>
         <div className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
-          <a href="#how-it-works" className="hover:text-foreground transition-colors">How It Works</a>
-          <a href="#pricing" className="hover:text-foreground transition-colors">Pricing</a>
-          <a href="#about" className="hover:text-foreground transition-colors">About</a>
+          <a href="/#how-it-works" className="hover:text-foreground transition-colors">How It Works</a>
+          <a href="/#pricing" className="hover:text-foreground transition-colors">Pricing</a>
+          <a href="/#about" className="hover:text-foreground transition-colors">About</a>
+          <Link to="/blog" className="hover:text-foreground transition-colors">Blog</Link>
           <a
             href="#cta"
             className="bg-primary text-primary-foreground px-4 py-2 rounded-lg text-sm font-medium hover:bg-primary/90 transition-colors"
