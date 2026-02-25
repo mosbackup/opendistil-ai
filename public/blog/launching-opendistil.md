@@ -4,7 +4,7 @@
 
 ---
 
-Today, we're excited to announce the launch of **OpenDistil** — the first platform purpose-built for AI model distillation at scale.
+Today, we're excited to announce the launch of **OpenDistil** — the first platform purpose-built for Frontier AI distillation at scale.
 
 ## The Problem We're Solving
 
