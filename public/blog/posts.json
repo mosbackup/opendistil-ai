@@ -1,5 +1,13 @@
 [
-    {
+  {
+    "slug": "openai-anthropic-panicking",
+    "title": "OpenAI and Anthropic Are Panicking About Distillation at Scale",
+    "date": "2026-03-02",
+    "excerpt": "Frontier AI labs are raising alarms about large-scale distillation. But productionized distillation may reshape the economics of AI faster than they expect.",
+    "author": "OpenDistil Team",
+    "tags": ["distillation", "industry", "analysis"]
+  },
+  {
     "slug": "launching-opendistil",
     "title": "Launching OpenDistil: Distillation-as-a-Service",
     "date": "2026-02-25",
