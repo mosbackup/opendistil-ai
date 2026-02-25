@@ -8,14 +8,14 @@ The AI industry is entering a new phase — and it’s not about who trains the 
 
 It’s about **who can replicate frontier capabilities at scale**.
 
-Recent signals from OpenAI and Anthropic show a growing concern about a single technique that could reshape the economics of AI: **large-scale model distillation**.
+Recent signals from [OpenAI](https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rRmql_jJcxb4/v0) and [Anthropic](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks) show a growing concern about a single technique that could reshape the economics of AI: **large-scale model distillation**.
 
 In fact, recent disclosures and research from frontier labs make one thing clear:  
 distillation is no longer just an optimization trick — it’s becoming an **industry-level force**.
 
 ## The Memo That Revealed the Fear
 
-In a recent memo to the U.S. government, OpenAI warned that competitors are using sophisticated distillation pipelines to replicate frontier model capabilities without paying the full research and compute cost.
+In a [recent memo](https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rRmql_jJcxb4/v0) to the U.S. government, OpenAI warned that competitors are using sophisticated distillation pipelines to replicate frontier model capabilities without paying the full research and compute cost.
 
 According to the memo, new approaches include:
 
