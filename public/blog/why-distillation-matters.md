@@ -18,14 +18,14 @@ This puts frontier AI capabilities out of reach for 99% of organizations.
 
 ## Enter Distillation
 
-Knowledge distillation transfers the capabilities of a large "teacher" model into a smaller, more efficient "student" model. The results are remarkable:
+Knowledge distillation transfers the capabilities of a large "teacher" model into a weaker "student" model. The results are remarkable:
 
 | Metric | Teacher Model | Distilled Model |
 |--------|--------------|-----------------|
-| Parameters | 175B+ | 7-13B |
+| Parameters | 500B+ | 1-1000B |
 | Inference Cost | $$$$ | $ |
 | Latency | High | Low |
-| Capability Retention | 100% | 85-95% |
+| Capability Retention | 100% | 85-99% |
 
 ## Why Now?
 
