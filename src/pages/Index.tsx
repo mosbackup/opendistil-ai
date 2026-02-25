@@ -6,6 +6,7 @@ import EconomicsSection from "@/components/EconomicsSection";
 import PricingSection from "@/components/PricingSection";
 import MissionSection from "@/components/MissionSection";
 import AboutSection from "@/components/AboutSection";
+import LatestUpdates from "@/components/LatestUpdates";
 import BottomCTA from "@/components/BottomCTA";
 import Footer from "@/components/Footer";
 
@@ -20,6 +21,7 @@ const Index = () => {
       <PricingSection />
       <MissionSection />
       <AboutSection />
+      <LatestUpdates />
       <BottomCTA />
       <Footer />
     </div>
