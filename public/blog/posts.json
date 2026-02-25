@@ -1,4 +1,12 @@
 [
+    {
+    "slug": "launching-opendistil",
+    "title": "Launching OpenDistil: Distillation-as-a-Service",
+    "date": "2026-02-25",
+    "excerpt": "Today we're launching OpenDistil — making frontier-level AI accessible to every lab and startup.",
+    "author": "OpenDistil Team",
+    "tags": ["announcement", "launch"]
+  },
   {
     "slug": "why-distillation-matters",
     "title": "Why Model Distillation Matters for the Future of AI",
@@ -14,13 +22,5 @@
     "excerpt": "Both techniques optimize models, but they serve very different purposes. We break down the trade-offs.",
     "author": "OpenDistil Team",
     "tags": ["technical", "comparison"]
-  },
-  {
-    "slug": "launching-opendistil",
-    "title": "Launching OpenDistil: Distillation-as-a-Service",
-    "date": "2026-02-25",
-    "excerpt": "Today we're launching OpenDistil — making frontier-level AI accessible to every lab and startup.",
-    "author": "OpenDistil Team",
-    "tags": ["announcement", "launch"]
   }
 ]
