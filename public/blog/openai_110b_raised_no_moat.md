@@ -6,7 +6,7 @@
 
 ![OpenAI Distilled](https://www.opendistil.com/openai_distilled.png)
 
-OpenAI just raised **$110 bBillion** to extend the frontier of artificial intelligence.
+OpenAI just raised **$110 Billion** to extend the frontier of artificial intelligence.
 
 And yet, only days earlier, the company publicly acknowledged something striking:
 
@@ -75,7 +75,7 @@ Scale can actually accelerate the ecosystem learning from it.
 
 ---
 
-## Thank You to OpenAI Investors
+## Thank You, OpenAI Investors
 
 Let’s be honest.
 
