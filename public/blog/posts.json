@@ -1,5 +1,13 @@
 [
   {
+  "slug": "openai_110b_raised_no_moat",
+  "title": "OpenAI: $110 Billion Raised Series G. Still No Moat?",
+  "date": "2026-03-06",
+  "excerpt": "OpenAI just raised $110B to push the AI frontier — while warning about adversarial distillation and free-riding on model outputs. The distillation era is already here.",
+  "author": "OpenDistil Team",
+  "tags": ["distillation", "analysis", "industry", "open models"]
+  },
+  {
     "slug": "openai-anthropic-panicking",
     "title": "OpenAI and Anthropic Are Panicking About Distillation at Scale",
     "date": "2026-03-02",
