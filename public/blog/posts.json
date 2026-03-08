@@ -1,6 +1,6 @@
 [
   {
-    "slug": "cursor-models-can-be-distilled",
+    "slug": "cursor-composer",
     "title": "Cursor Models Can Be Distilled Too: Why the AI Coding War Accelerates Open Distillation",
     "date": "2026-03-09",
     "excerpt": "Cursor’s Composer model is trained on massive real-world coding interactions. But once deployed, that behavior becomes learnable — and distillation turns it into open training data.",
