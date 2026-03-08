@@ -1,6 +1,6 @@
 # Cursor Models Can Be Distilled Too: Why the AI Coding War Accelerates Open Distillation
 
-**March 8, 2026 · OpenDistil Team**
+**March 9, 2026 · OpenDistil Team**
 
 ---
 
