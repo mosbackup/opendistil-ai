@@ -1,11 +1,19 @@
 [
   {
-  "slug": "openai_110b_raised_no_moat",
-  "title": "OpenAI: $110 Billion Raised. Still No Moat?",
-  "date": "2026-03-06",
-  "excerpt": "OpenAI just raised $110B to push the AI frontier — while warning about adversarial distillation and free-riding on model outputs. The distillation era is already here.",
-  "author": "OpenDistil Team",
-  "tags": ["distillation", "analysis", "industry", "open models"]
+    "slug": "cursor-models-can-be-distilled",
+    "title": "Cursor Models Can Be Distilled Too: Why the AI Coding War Accelerates Open Distillation",
+    "date": "2026-03-08",
+    "excerpt": "Cursor’s Composer model is trained on massive real-world coding interactions. But once deployed, that behavior becomes learnable — and distillation turns it into open training data.",
+    "author": "OpenDistil Team",
+    "tags": ["distillation", "analysis", "AI coding", "industry"]
+  },
+  {
+    "slug": "openai_110b_raised_no_moat",
+    "title": "OpenAI: $110 Billion Raised. Still No Moat?",
+    "date": "2026-03-06",
+    "excerpt": "OpenAI just raised $110B to push the AI frontier — while warning about adversarial distillation and free-riding on model outputs. The distillation era is already here.",
+    "author": "OpenDistil Team",
+    "tags": ["distillation", "analysis", "industry", "open models"]
   },
   {
     "slug": "openai-anthropic-panicking",
